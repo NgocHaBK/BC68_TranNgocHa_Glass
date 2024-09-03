@@ -1,0 +1,20 @@
+.wrapper {
+  background-image: url("./public/glassesImage/background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.model {
+  position: relative;
+}
+.glass_model {
+  position: absolute;
+  left: 26%;
+  top: 32%;
+}
+.description {
+  position: absolute;
+  left: 0;
+  bottom: -22%;
+  font-size: 14px;
+}
